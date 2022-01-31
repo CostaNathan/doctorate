@@ -1,1 +1,1 @@
-# doctorate
+# Doctorate projects
