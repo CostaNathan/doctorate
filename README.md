@@ -1,2 +1,4 @@
-##### Model development of Activated Sludge Model 1 and 3, as well as an Aerobic Granular Sludge version 
+##### Model development of Activated Sludge Model 1 
+##### Model development of Activated Sludge Model 3
+##### Modified ASM for Aerobic Granular Sludge 
 
