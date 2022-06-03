@@ -1,3 +1,2 @@
-#### Doctorate projects
-##### 1. Activated sludge model 1, 2, 3 and a modified version for granular sludge
+##### Model development of Activated Sludge Model 1 and 3, as well as an Aerobic Granular Sludge version 
 
