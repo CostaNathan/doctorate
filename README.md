@@ -1,10 +1,6 @@
-\documentstyle[14pt, a4]{article}
-\usepackage{fontenc}
-\title{Doctorate projects}
-\begin{document}
-\maketitle
+####Doctorate projects
 
-1. Activated sludge model 1, 2, 3 and a modified version for granular sludge (Seperate branch)
+##### 1. Activated sludge model 1, 2, 3 and a modified version for granular sludge (Seperate branch)
+##### 2. Modelos de dispersão e qualidade da água
 
-\end{document}
 
